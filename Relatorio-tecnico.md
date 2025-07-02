@@ -118,7 +118,7 @@ Os testes foram executados para diferentes tamanhos de arrays (100, 1000, 5000, 
 | Quick Sort (Mediana de Tres) |  0.002   |  0.002   |  0.001   |
 | Selection Sort |  0.008   |  0.008   |  0.007   |
 
-![Tempo de Execução (ms) - Tamanho do Array: 100](graficos\time_array_100.png)
+![Tempo de Execução (ms) - Tamanho do Array: 100](graficos\tempo_array_100.png)
 
 #### Tamanho do Array: 1000
 
@@ -132,7 +132,7 @@ Os testes foram executados para diferentes tamanhos de arrays (100, 1000, 5000, 
 | Quick Sort (Mediana de Tres) |  0.029   |  0.02   |  0.018   |
 | Selection Sort |  0.849   |  0.837   |  0.841   |
 
-![Tempo de Execução (ms) - Tamanho do Array: 1000](graficos\time_array_1000.png)
+![Tempo de Execução (ms) - Tamanho do Array: 1000](graficos\tempo_array_1000.png)
 
 #### Tamanho do Array: 5000
 
@@ -146,7 +146,7 @@ Os testes foram executados para diferentes tamanhos de arrays (100, 1000, 5000, 
 | Quick Sort (Mediana de Tres) |  0.179   |  0.118   |  0.149   |
 | Selection Sort |  21.955   |  21.58   |  21.803   |
 
-![Tempo de Execução (ms) - Tamanho do Array: 5000](graficos\time_array_5000.png)
+![Tempo de Execução (ms) - Tamanho do Array: 5000](graficos\tempo_array_5000.png)
 
 #### Tamanho do Array: 10000
 
@@ -160,7 +160,7 @@ Os testes foram executados para diferentes tamanhos de arrays (100, 1000, 5000, 
 | Quick Sort (Mediana de Tres) |  0.548   |  0.249   |  0.177   |
 | Selection Sort |  88.671   |  89.863   |  87.036   |
 
-![Tempo de Execução (ms) - Tamanho do Array: 10000](graficos\time_array_10000.png)
+![Tempo de Execução (ms) - Tamanho do Array: 10000](graficos\tempo_array_10000.png)
 
 #### Tamanho do Array: 50000
 
@@ -174,7 +174,7 @@ Os testes foram executados para diferentes tamanhos de arrays (100, 1000, 5000, 
 | Quick Sort (Mediana de Tres) |  2.171   |  1.662   |  1.802   |
 | Selection Sort |  2204.03   |  2202.7   |  2223.25   |
 
-![Tempo de Execução (ms) - Tamanho do Array: 50000](graficos\time_array_50000.png)
+![Tempo de Execução (ms) - Tamanho do Array: 50000](graficos\tempo_array_50000.png)
 
 ### Comparações
 
@@ -190,7 +190,7 @@ Os testes foram executados para diferentes tamanhos de arrays (100, 1000, 5000, 
 | Quick Sort (Mediana de Tres) |  567   |  533   |  686   |
 | Selection Sort |  4950   |  4950   |  4950   |
 
-![Comparações - Tamanho do Array: 100](graficos\comparisons_array_100.png)
+![Comparações - Tamanho do Array: 100](graficos\comparacoes_array_100.png)
 
 #### Tamanho do Array: 1000
 
@@ -204,7 +204,7 @@ Os testes foram executados para diferentes tamanhos de arrays (100, 1000, 5000, 
 | Quick Sort (Mediana de Tres) |  9930   |  10850   |  14378   |
 | Selection Sort |  499500   |  499500   |  499500   |
 
-![Comparações - Tamanho do Array: 1000](graficos\comparisons_array_1000.png)
+![Comparações - Tamanho do Array: 1000](graficos\comparacoes_array_1000.png)
 
 #### Tamanho do Array: 5000
 
@@ -218,7 +218,7 @@ Os testes foram executados para diferentes tamanhos de arrays (100, 1000, 5000, 
 | Quick Sort (Mediana de Tres) |  62760   |  71114   |  100346   |
 | Selection Sort |  12497500   |  12497500   |  12497500   |
 
-![Comparações - Tamanho do Array: 5000](graficos\comparisons_array_5000.png)
+![Comparações - Tamanho do Array: 5000](graficos\comparacoes_array_5000.png)
 
 #### Tamanho do Array: 10000
 
@@ -232,7 +232,7 @@ Os testes foram executados para diferentes tamanhos de arrays (100, 1000, 5000, 
 | Quick Sort (Mediana de Tres) |  133782   |  159520   |  225614   |
 | Selection Sort |  49995000   |  49995000   |  49995000   |
 
-![Comparações - Tamanho do Array: 10000](graficos\comparisons_array_10000.png)
+![Comparações - Tamanho do Array: 10000](graficos\comparacoes_array_10000.png)
 
 #### Tamanho do Array: 50000
 
@@ -246,7 +246,7 @@ Os testes foram executados para diferentes tamanhos de arrays (100, 1000, 5000, 
 | Quick Sort (Mediana de Tres) |  805327   |  1074761   |  1418614   |
 | Selection Sort |  1249975000   |  1249975000   |  1249975000   |
 
-![Comparações - Tamanho do Array: 50000](graficos\comparisons_array_50000.png)
+![Comparações - Tamanho do Array: 50000](graficos\comparacoes_array_50000.png)
 
 
 ### Trocas
@@ -263,7 +263,7 @@ Os testes foram executados para diferentes tamanhos de arrays (100, 1000, 5000, 
 | Quick Sort (Mediana de Tres) |  407   |  303   |  485   |
 | Selection Sort |  97   |  10   |  50   |
 
-![Trocas - Tamanho do Array: 100](graficos\swaps_array_100.png)
+![Trocas - Tamanho do Array: 100](graficos\trocas_array_100.png)
 
 #### Tamanho do Array: 1000
 
@@ -277,7 +277,7 @@ Os testes foram executados para diferentes tamanhos de arrays (100, 1000, 5000, 
 | Quick Sort (Mediana de Tres) |  5334   |  4651   |  9321   |
 | Selection Sort |  988   |  100   |  500   |
 
-![Trocas - Tamanho do Array: 1000](graficos\swaps_array_1000.png)
+![Trocas - Tamanho do Array: 1000](graficos\trocas_array_1000.png)
 
 #### Tamanho do Array: 5000
 
@@ -291,7 +291,7 @@ Os testes foram executados para diferentes tamanhos de arrays (100, 1000, 5000, 
 | Quick Sort (Mediana de Tres) |  35042   |  29716   |  64009   |
 | Selection Sort |  4989   |  500   |  2500   |
 
-![Trocas - Tamanho do Array: 5000](graficos\swaps_array_5000.png)
+![Trocas - Tamanho do Array: 5000](graficos\trocas_array_5000.png)
 
 #### Tamanho do Array: 10000
 
@@ -305,7 +305,7 @@ Os testes foram executados para diferentes tamanhos de arrays (100, 1000, 5000, 
 | Quick Sort (Mediana de Tres) |  76020   |  65121   |  143229   |
 | Selection Sort |  9995   |  1000   |  5000   |
 
-![Trocas - Tamanho do Array: 10000](graficos\swaps_array_10000.png)
+![Trocas - Tamanho do Array: 10000](graficos\trocas_array_10000.png)
 
 #### Tamanho do Array: 50000
 
@@ -319,18 +319,18 @@ Os testes foram executados para diferentes tamanhos de arrays (100, 1000, 5000, 
 | Quick Sort (Mediana de Tres) |  411833   |  380379   |  891869   |
 | Selection Sort |  49987   |  5000   |  25000   |
 
-![Trocas - Tamanho do Array: 50000](graficos\swaps_array_50000.png)
+![Trocas - Tamanho do Array: 50000](graficos\trocas_array_50000.png)
 
 
 ### 5. Gráficos Gerais
 
 Os gráficos a seguir ilustram o desempenho geral dos algoritmos em relação ao tempo de execução, número de comparações e número de trocas, considerando diferentes tamanhos de vetor e tipos de dados.
 
-![Tempo de execução vs Tamanho do Vetor](graficos\overall_time_trend.png)
+![Tempo de execução vs Tamanho do Vetor](graficos\tendencia_tempo.png)
 
-![Comparações vs tamanho do Vetor](graficos\overall_comparisons_trend.png)
+![Comparações vs tamanho do Vetor](graficos\tendencia_comparacoes.png)
 
-![Trocas vs Tamanho do Vetos](graficos\overall_swaps_trend.png)
+![Trocas vs Tamanho do Vetos](graficos\tendencia_trocas.png)
 
 
 ### 5.1. Discussão Crítica
